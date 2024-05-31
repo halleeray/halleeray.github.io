@@ -14,10 +14,27 @@ What I did this week :
 Impediments in my way : 
   <ul> Difficulty narrowing down my interests into a few potential projects </ul>
 
-Process : <br>
+Reflection on the process you used last week, how can you make the process work better? : <br>
   This week the process was setting up my personal website, now that it is created, I will have to keep it updated with my weekly progress. I believe that as I get further into a project it will be easier to determine how to streamline processes.
 
 ### Week 2: May 27 - June 2
+What I did last week :
+<ul>Create a list of potential project options</ul>
+<ul>Create the github page for my personal website</ul>
+
+What I did this week : 
+<ul>Narrow down my choices for my project and begin courses through LinkedIn Learning
+  <ul>Python scripting course</ul>
+  <ul>Find an R course for next week</ul>
+</ul>
+
+Impediments in my way : 
+<ul>No real impediments other than trying to narrow down the scope of what I would like to learn/focus on this semester</ul>
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+  Last week I focused on getting everything set up in terms of the github pages site and getting everything ready to stay organized for the duration of the semester. Now that things are set up, I will work toward finding an efficient process for managing my progress in courses for expanding my python knowledge and learning R.
+
+### Week 3: June 3 - June 9
 What I did last week :
 
 
@@ -27,5 +44,4 @@ What I did this week :
 Impediments in my way : 
 
 
-Process : 
-
+Reflection on the process you used last week, how can you make the process work better? : <br>
