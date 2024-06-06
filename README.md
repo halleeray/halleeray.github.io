@@ -36,12 +36,44 @@ Reflection on the process you used last week, how can you make the process work 
 
 ### Week 3: June 3 - June 9
 What I did last week :
+<ul> Selected a set of courses that interest me for the duration of the semester </ul>
 
+What I did this week : 
+<ul> Began my desired courses for the week </ul>
+<ul> Created a list to manage my weekly goals </ul>
+<ul> Found some initial practice problems to align with my progress in the LinkedIn Learning courses </ul>
+
+Impediments in my way : 
+<ul> Time management - I am still working on creating a schedule to work on the courses and problems </ul>
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+<ul> It is increasingly important for me to manage my time well and follow a schedule to meet my goals for the week </ul>
+
+
+
+### Week : 
+What I did last week :
 
 What I did this week : 
 
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+### Week : 
+What I did last week :
+
+What I did this week : 
 
 Impediments in my way : 
 
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
