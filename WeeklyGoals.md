@@ -1,3 +1,7 @@
+layout: page
+title: "Weekly Goals"
+permalink: /goals
+
 ### Week 3: June 3 - June 9
 <ol> 
     <li> R for Data Science: Analysis and Visualization (2hr 46m) </li>
