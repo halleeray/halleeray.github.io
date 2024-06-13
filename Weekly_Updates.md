@@ -51,14 +51,22 @@ Reflection on the process you used last week, how can you make the process work 
 
 
 
-### Week : 
+### Week 4: June 10 - June 17 
 What I did last week :
+<ul> Began my desired courses for the week </ul>
+<ul> Created a list to manage my weekly goals </ul>
+<ul> Found some initial practice problems to align with my progress in the LinkedIn Learning courses </ul>
 
 What I did this week : 
+<ul> Completed the next section of LinkedIn Learning courses dedicated to learning R
+    The current course I selected for the next few weeks is 14 hrs so I did the first 4hr section
+    There were several repeat videos in this section so I found some practice problems on GeeksforGeeks to work on to round out the time
 
 Impediments in my way : 
+<ul> Finding practice problems that align well with the content of the R courses is a little difficult. I have gone through several websites with practice problems for using R but they are mostly focused on syntax and basic functionality. I would prefer to focus on material that involves analyzing data sets. 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+    For this week I focused on breaking up my time studying R by doing little sections of the course each day. This definitely helped me to stay focused during my study time and get the most out of each section instead of doing larger chunks at a time. Going forward, instead of choosing practice problems online, I plan to explore the data sets included in RStudio and create mini projects that analyze the data using the  methods that I learned in the courses for the week.
 
 ### Week : 
 What I did last week :
