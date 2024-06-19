@@ -58,9 +58,11 @@ What I did last week :
 <ul> Found some initial practice problems to align with my progress in the LinkedIn Learning courses </ul>
 
 What I did this week : 
-<ul> Completed the next section of LinkedIn Learning courses dedicated to learning R
+<ul><li> Completed the next section of LinkedIn Learning courses dedicated to learning R
     The current course I selected for the next few weeks is 14 hrs so I did the first 4hr section
     There were several repeat videos in this section so I found some practice problems on GeeksforGeeks to work on to round out the time
+    <li> Continued formatting for my website and learning about github pages
+</ul>
 
 Impediments in my way : 
 <ul> Finding practice problems that align well with the content of the R courses is a little difficult. I have gone through several websites with practice problems for using R but they are mostly focused on syntax and basic functionality. I would prefer to focus on material that involves analyzing data sets. 

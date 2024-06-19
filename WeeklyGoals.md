@@ -6,3 +6,11 @@
     </li>
 </ol>
     
+    
+### Week 4: June 10 - June 17
+<ol>
+    <li> Getting Started with R for Data Science: https://www.linkedin.com/learning/paths/getting-started-with-r-for-data-science?u=42275329 <br>
+        Course 1: R Essential Training: Wrangling and Visualizing Data (4hr 18m) </li>
+        Note : Lots of repeat videos from week 3
+</ol>
+    
