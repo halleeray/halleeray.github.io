@@ -58,17 +58,44 @@ What I did last week :
 <ul> Found some initial practice problems to align with my progress in the LinkedIn Learning courses </ul>
 
 What I did this week : 
-<ul><li> Completed the next section of LinkedIn Learning courses dedicated to learning R
-    The current course I selected for the next few weeks is 14 hrs so I did the first 4hr section
-    There were several repeat videos in this section so I found some practice problems on GeeksforGeeks to work on to round out the time
-    <li> Continued formatting for my website and learning about github pages
+<ul><li> Completed the next section of LinkedIn Learning courses dedicated to learning R  <br>
+    The current course I selected for the next few weeks is 14 hrs so I did the first 4hr section  <br>
+    There were several repeat videos in this section so I found some practice problems on GeeksforGeeks to work on to round out the time  <br>
+    <li> Continued formatting for my website and learning about github pages </li>
 </ul>
 
-Impediments in my way : 
-<ul> Finding practice problems that align well with the content of the R courses is a little difficult. I have gone through several websites with practice problems for using R but they are mostly focused on syntax and basic functionality. I would prefer to focus on material that involves analyzing data sets. 
+Impediments in my way : <br>
+Finding practice problems that align well with the content of the R courses is a little difficult. I have gone through several websites with practice problems for using R but they are mostly focused on syntax and basic functionality. I would prefer to focus on material that involves analyzing data sets. 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
     For this week I focused on breaking up my time studying R by doing little sections of the course each day. This definitely helped me to stay focused during my study time and get the most out of each section instead of doing larger chunks at a time. Going forward, instead of choosing practice problems online, I plan to explore the data sets included in RStudio and create mini projects that analyze the data using the  methods that I learned in the courses for the week.
+
+
+### Week 5: June 17 - June 23
+What I did last week :
+<ul><li> Completed the next section of LinkedIn Learning courses dedicated to learning R  <br>
+    The course I selected for the next few weeks is 14 hrs so I did the first 4hr section  <br>
+    There were several repeat videos in the first section so I found some practice problems on GeeksforGeeks to work on to round out the time  <br>
+    <li> Continued formatting for my website and learning about github pages </li>
+</ul>
+
+What I did this week : 
+<ul>
+    <li> Created a new project proposal </li>
+    <li> Selected several problems to work on expanding my knowledge of and skills in python from exercism</li>
+    <li> Worked on styling the homepage of my personal website</li>
+</ul>
+
+Impediments in my way : <br>
+Finding specific problems and skills to focus on improving my proficiency at in Python is quite difficult as there are many things to learn. Additionally, I will need to be more flexible in my studies in order to make the most of the problems I select for the week and to spend time learning about specific ideas for each problem. Moving to a less rigid structure for each week in order to learn by practice instead of solely relying on lecture type videos will be more beneficial but different in how much time I need to dedicate to learning and practicing.
+
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+I've realized that I really am not all that interested in learning R or data science and as a result, dedicating time to following the LinkedIn Learning videos became tedious. Despite the courses being broken down and easy to split up due to short videos, I found myself losing focus and having to rewatch several things as if I had not seen them before. I did better at breaking up my time throughout the week but I've found that I learn best through practicing and natural curiosity, where if there is something specific I am interested in learning, I seek out documentation and resources to help me understand and learn whereas if I am just following videos and replicating the examples in the videos, I feel like I don't get very much out of it. This week I am going to shift my focus to a few problems on exercism each that involve a more complex understanding of data structures, algorithms, objects, etc. and focus on learning about those more in depth while working on the problems. I think this has the potential to make planning a little more difficult but overall, I feel like I will be more excited about and focused on my goals for the week.
+
+
+
+
 
 ### Week : 
 What I did last week :
@@ -78,6 +105,64 @@ What I did this week :
 Impediments in my way : 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+
+
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+
+
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+
+
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
+
+
+### Week : 
+What I did last week :
+
+What I did this week : 
+
+Impediments in my way : 
+
+Reflection on the process you used last week, how can you make the process work better? : <br>
+
 
 ### Week : 
 What I did last week :

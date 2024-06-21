@@ -1,20 +1,31 @@
+body {
+    background-image: url("static/images/csbackground.jpg");
+}
+
 h1 {
+    color: #8464a3;
     text-align: center;
 }
 
-div {
-    display : flex;
+.header {
+    padding: 10px;
+    background-color: lavender;
+    display: flex;
     justify-content: space-around;
 }
 
-div a {
-    border: 4px solid lavender;
-    padding: 1em;
+
+a {
+    color: white;
     text-decoration: none;
-    color: black;
+    font-size: 20px;
+    padding: 10px;
 }
 
-div a:hover {
-    background-color: lavender;
+
+a:hover {
+    background-color: #8464a3;
 }
+
+
     
