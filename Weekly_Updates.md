@@ -97,14 +97,26 @@ I've realized that I really am not all that interested in learning R or data sci
 
 
 
-### Week : 
+### Week 6 : June 23 - June 30
 What I did last week :
+<ul><li> Completed the next section of LinkedIn Learning courses dedicated to learning R  <br>
+    The course I selected for the next few weeks is 14 hrs so I did the first 4hr section  <br>
+    There were several repeat videos in the first section so I found some practice problems on GeeksforGeeks to work on to round out the time  <br>
+    <li> Continued formatting for my website and learning about github pages </li>
+</ul>
 
 What I did this week : 
+<ul>
+    <li> Hangman exercism problem to focus on implementing the idea of functional reactive programming</li>
+    <li> Watched videos describing the concept behind functional reactive programming and how it is used </li>
+    <li> Read documentation and tutorials related to functional reactive programming and about python class implementation and methods </li>
+</ul>
 
-Impediments in my way : 
+Impediments in my way : <br>
+I had a very busy week with family moving out of state which made managing my time a little more difficult. 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+Stepping through the problem and passing tests incrementally and searching for bits of documentation related to what I was working on was helpful in narrowing my focus and actually learning things. I was able to apply my knowledge and see it in action which helped me to gain a better understanding of the concepts.
 
 
 
