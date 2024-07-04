@@ -123,14 +123,41 @@ Stepping through the problem and passing tests incrementally and searching for b
 
 
 
-### Week : 
+### Week 7: June 30 - July 7
 What I did last week :
+<ul>
+    <li> Hangman exercism problem to focus on implementing the idea of functional reactive programming</li>
+    <li> Watched videos describing the concept behind functional reactive programming and how it is used </li>
+    <li> Read documentation and tutorials related to functional reactive programming and about python class implementation and methods </li>
+</ul>
 
 What I did this week : 
+<ul>
+    Tisbury Treasure Hunt: https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt<br>
+    Mecha Munch Management: https://exercism.org/tracks/python/exercises/mecha-munch-management<br>
+    Cater Waiter: https://exercism.org/tracks/python/exercises/cater-waiter <br>
+    <li>Supplemental documentation for tuples and tuple methods:<br>
+        https://www.w3schools.com/python/python_tuples.asp <br>
+        https://www.geeksforgeeks.org/python-tuples/<br>
+        https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences <br>
+    </li>
+    <li>Supplemental documentation for dictionaries and dictionary methods:<br>
+        https://www.w3schools.com/python/python_dictionaries.asp<br>
+        https://www.geeksforgeeks.org/python-dictionary/<br>
+        https://docs.python.org/3/tutorial/datastructures.html#dictionaries<br>  
+    </li>
+    <li>Supplemental documentation for sets and set methods:<br>
+        https://www.w3schools.com/python/python_sets.asp<br>
+        https://www.geeksforgeeks.org/sets-in-python/<br>
+        https://realpython.com/python-sets/<br>
+    </li>
+</ul>
 
-Impediments in my way : 
+Impediments in my way : <br>
+No notable impediments in my way this week.
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+Now that I have ironed out a process, I just have to stick to it. I carve out a little time every day to make progress on the exercism problems and read about the associated methods and structures. This helps me to stay on track.
 
 
 
