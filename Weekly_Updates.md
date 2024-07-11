@@ -161,15 +161,23 @@ Now that I have ironed out a process, I just have to stick to it. I carve out a 
 
 
 
-### Week : 
-What I did last week :
+### Week 8: July 7 - July 14 
+What I did last week : <br>
+Exercism problems and reading associated online documentation: <br>
+    Tisbury Treasure Hunt: https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt<br>
+    Mecha Munch Management: https://exercism.org/tracks/python/exercises/mecha-munch-management<br>
+    Cater Waiter: https://exercism.org/tracks/python/exercises/cater-waiter <br>
 
-What I did this week : 
+What I did this week : <br>
+Exercism problem and regular expression readings: <br>
+    Grep https://exercism.org/tracks/python/exercises/grep <br>
+    Note : Despite spending lots of time reading documentation and tutorials for Regular expressions, this problem actually didn't involve the use of any regular expressions. Instead, it matched full strings, not regex patterns. This problem was a more difficult problem due to checking for flags, the possibility of multiple flags and trying to figure out how to optimize my code and avoid repeated sections. There is still much room for improvement. <br>
 
-Impediments in my way : 
+Impediments in my way : <br>
+The problem I chose for this week includes flags that are included in a list as input. There can be no flags, one flag, or multiple, and checking for each and changing the output depending on the flags led to me creating a very long python function with lots of repeated code segments.<br> 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
-
+My initial idea was to just get the code working and passing tests and then to work on optimization by breaking the flag checking into helper functions to reduce the amount of repeated code segments. Next week, I will focus on that in order to make my code more readable.<br>
 
 
 
