@@ -157,7 +157,7 @@ Impediments in my way : <br>
 No notable impediments in my way this week.
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
-Now that I have ironed out a process, I just have to stick to it. I carve out a little time every day to make progress on the exercism problems and read about the associated methods and structures. This helps me to stay on track.
+Now that I have ironed out a process, I just have to stick to it. I carve out a little time every day to make progress on the exercism problems and read about the associated methods and structures. This helps me to stay on track.<br>
 
 
 
@@ -181,26 +181,36 @@ My initial idea was to just get the code working and passing tests and then to w
 
 
 
-### Week : 
+### Week 9: July 14 - July 21
 What I did last week :
+Exercism problem and regular expression readings: <br>
+    Grep https://exercism.org/tracks/python/exercises/grep <br>
+    Note : Despite spending lots of time reading documentation and tutorials for Regular expressions, this problem actually didn't involve the use of any regular expressions. Instead, it matched full strings, not regex patterns. This problem was a more difficult problem due to checking for flags, the possibility of multiple flags and trying to figure out how to optimize my code and avoid repeated sections. There is still much room for improvement. <br>
 
-What I did this week : 
-
-Impediments in my way : 
+What I did this week : <br>
+This week, I worked on optimizing my code for my problem last week. The problem I chose for last week included flags that are included in a list as input. There can be no flags, one flag, or multiple, and checking for each and changing the output depending on the flags led to me creating a very long python function with lots of repeated code segments. My initial idea was to just get the code working and passing tests and then to work on optimization by breaking the flag checking into helper functions to reduce the amount of repeated code segments. This week, I focused on optimizing my code in order to make my code more readable. I think that overall, this is good practice, whereas having lots of repeated code segments is error prone and difficult to follow.<br>
+    
+Impediments in my way : <br>
+This week was a very hectic week for me due to exams and many family and work events. As a result, instead of breaking up my work into shorter sessions over multiple days throughout the week, I've had to jam all of my studies into one day. This just makes time management for my other projects and things going on more difficult and stressful. <br>
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+In previous weeks, sticking to a study schedule was helpful in minimizing stress and helping me to stay on top of my work for the week. I plan to continue to stick with my scheduled study sessions going forward. <br>
 
 
 
 
-### Week : 
-What I did last week :
+### Week 10: July 21 - July 28
+What I did last week : <br>
+Last week, I worked on optimizing my code for the grep exercism problem. This was more of a challenge than I anticipated and I attempted this problem many times in attempts to optimize my work and reduce the amount of copied code. It was fun to explore various ways to implement and sort out my approach for this problem. However, every single one of my attempts, I ended up having to copy code portions based on various combinations of input flags. I reviewed some of the code submitted by other users who completed the problem and came to the conclusion that getting rid of duplicated portions entirely was not possible. <br>
 
-What I did this week : 
+What I did this week : <br>
+This week, I wanted to transition to preparing myself with a good understanding of the fundamental concepts that will be important for my future coursework. I followed two linkedIn Learning courses related to artificial intelligence and machine learning in python. <br>
 
-Impediments in my way : 
+Impediments in my way : <br>
+This week, despite being hopeful that my crazy schedule would mellow out, I had another very hectic week. Lots of deadlines and exams. <br>
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+Following the courses with set times this week made managing my time easier. In previous weeks, I had gotten super focused and had lots of fun exploring exercism and working on problems that I was devoting way more than the 4 hours required for this course. This week, it was easier to plan out my days and slowly chip away at the courses since I knew there was a finite amount of time that I had to dedicate to the courses. These courses were the perfect way to make progress in my goal to improve my skills with python despite having a busy week. <br>
 
 
 

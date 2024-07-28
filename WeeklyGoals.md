@@ -62,6 +62,7 @@ In my studies so far, I have been exposed to and used the concepts of tuples, di
     </li>
 </ul>
 
+
 ### Week 8: July 7 - July 14
 This week I want to focus on understanding and learning more about regular expressions. This exercism problem uses the unix grep expression to match lines containing the sequences specified by the regular expressions. 
 <ul>
@@ -71,9 +72,18 @@ This week I want to focus on understanding and learning more about regular expre
     Regular expressions documentation: https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html <br>
 </ul>
 
+
 ### Week 9: July 14 - July 21
 This week, I want to work on optimizing my code for my problem last week. The problem I chose for last week included flags that are included in a list as input. There can be no flags, one flag, or multiple, and checking for each and changing the output depending on the flags led to me creating a very long python function with lots of repeated code segments. My initial idea was to just get the code working and passing tests and then to work on optimization by breaking the flag checking into helper functions to reduce the amount of repeated code segments. This week, I will focus on that in order to make my code more readable. I think that overall, this is good practice, whereas having lots of repeated code segments is error prone and difficult to follow. Depending on how long this process takes, I may need to adjust my weekly goals to include another problem or further readings.<br>
     
+    
+### Week 10: July 21 - July 28
+This week, I want to shift my focus to preparing for my next semester of courses and getting a good baseline for what I will be learning going forward. One of the courses I am going to be taking is machine learning. While I unfortunately will not be able to take the artificial intelligence class, these concepts go hand in hand. Currently, I have very little knowledge of both of these ideas, so I found two courses on LinkedIn Learning that provide overviews of the fundamentals.<br>
+<ul>
+    <li> https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=42275329 (2 hr) </li>
+    <li> https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=42275329 (2 hr) </li>
+</ul>
+
     
 
     
