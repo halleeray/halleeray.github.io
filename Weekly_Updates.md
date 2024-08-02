@@ -214,14 +214,23 @@ Following the courses with set times this week made managing my time easier. In 
 
 
 
-### Week : 
-What I did last week :
+### Week 11: July 28 - August 4
+What I did last week : <br>
+Last week, I wanted to transition to preparing myself with a good understanding of the fundamental concepts that will be important for my future coursework. I followed two linkedIn Learning courses related to artificial intelligence and machine learning in python. <br>
 
-What I did this week : 
+What I did this week : <br>
+This week, I continue my quest for improving my python skills. Since last week I watched a few videos, I want to take a more hands on, practical approach this week, similar to weeks prior. Since I like to play video games, I figured an engaging way to practice coding with python would be to create a game. I found some tutorials on Real Python that provide a framework for creating video games. I chose a simple game to start and will follow additional tutorials if time permits. <br>
+<ul>
+    <li>
+        https://realpython.com/courses/conway-game-of-life-python/ Lessons: 48 min
+    </li>
+</ul>
 
-Impediments in my way : 
+Impediments in my way : <br>
+Internship coming to a close, lots of projects and an exam. <br>
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+Take a little time each day to chip away at the activity <br>
 
 
 ### Week : 

@@ -84,6 +84,15 @@ This week, I want to shift my focus to preparing for my next semester of courses
     <li> https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=42275329 (2 hr) </li>
 </ul>
 
+### Week 11: July 28 - August 4
+This week, I continue my quest for improving my python skills. Since last week I watched a few videos, I want to take a more hands on, practical approach this week, similar to weeks prior. Since I like to play video games, I figured an engaging way to practice coding with python would be to create a game. I found some tutorials on Real Python that provide a framework for creating video games. I chose a simple game to start and will follow additional tutorials if time permits. 
+<ul>
+    <li>
+        https://realpython.com/courses/conway-game-of-life-python/ Lessons: 48 min
+    </li>
+</ul>
+
+
     
 
     
