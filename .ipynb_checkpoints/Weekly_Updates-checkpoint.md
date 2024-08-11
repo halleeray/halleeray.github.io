@@ -233,11 +233,15 @@ Reflection on the process you used last week, how can you make the process work 
 Take a little time each day to chip away at the activity <br>
 
 
-### Week : 
-What I did last week :
+### Week 12: August 4 - August 11 
+What I did last week : <br>
+Followed the Conway Game of Life tutorial/course to replicate conway's game of life. Explored the concepts of classes and decorators and how they are used in creating the game and game methods. <br>
 
-What I did this week : 
+What I did this week : <br>
+This week I made sure that my website was up to date and I did the final project report. <br>
 
-Impediments in my way : 
+Impediments in my way : <br>
+This week was incredibly busy with projects for other classes and the last week of my internship and some exciting news! I was offered a full time position that I ultimately accepted. Despite a definitive step toward a career change, it added significant stress with cutting ties from my other job. <br>
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
+N/A <br>

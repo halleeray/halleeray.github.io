@@ -92,6 +92,9 @@ This week, I continue my quest for improving my python skills. Since last week I
     </li>
 </ul>
 
+### Week 12: August 4 - August 11
+This week I want to wrap up my studies for this course. I want to review the practice problems and concepts that have interested me over the semester. This week I will also finish the Final Project Report. <br>
+
 
     
 

@@ -1,0 +1,17 @@
+lesson08$ python3.12 -m venv venv
+lesson08$ source venv/bin/activate
+(venv) lesson08$ python -m pip install -e .
+Obtaining file:///Users/ctrudeau/code/lesson08
+  Installing build dependencies ... done
+  Checking if build backend supports build_editable ... done
+  Getting requirements to build editable ... done
+  Preparing editable metadata (pyproject.toml) ... done
+Building wheels for collected packages: rplife
+  Building editable for rplife (pyproject.toml) ... done
+  Created wheel for rplife: filename=rplife-1.0.0-0.editable-py3-none-any.whl size=2843 sha256=8edc34b05474a7d3f6bd34814b84069b555e62925246f615d32af7d9b18a4d58
+  Stored in directory: /private/var/folders/mz/5txqv6hs4232hkjbxcny3jt40000gn/T/pip-ephem-wheel-cache-ewhamr7o/wheels/7a/d1/a4/8c3fdd94044948bb1c2dbacdde69c4bdf8e33db29915c57f80
+Successfully built rplife
+Installing collected packages: rplife
+Successfully installed rplife-1.0.0
+
+(venv) lesson08$ rplife -p "Glider Gun" -g 50

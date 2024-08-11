@@ -1,0 +1,15 @@
+>>> print(grid.as_string((0, 0, 5, 5)))
+ Blinker
+ ‧ ‧ ‧ ‧ ‧
+ ‧ ‧ ‧ ‧ ‧
+ ‧ ♥ ♥ ♥ ‧
+ ‧ ‧ ‧ ‧ ‧
+ ‧ ‧ ‧ ‧ ‧
+>>> grid.evolve()
+>>> print(grid.as_string((0, 0, 5, 5)))
+ Blinker
+ ‧ ‧ ‧ ‧ ‧
+ ‧ ‧ ♥ ‧ ‧
+ ‧ ‧ ♥ ‧ ‧
+ ‧ ‧ ♥ ‧ ‧
+ ‧ ‧ ‧ ‧ ‧

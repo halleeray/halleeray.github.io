@@ -1,0 +1,15 @@
+>>> from rplife.grid import LifeGrid
+>>> from rplife.patterns import Pattern
+>>> blinker = Pattern("Blinker", {(2, 1), (2, 2), (2, 3)})
+>>> grid = LifeGrid(blinker)
+>>> print(grid)
+Blinker:
+Alive cells -> [(2, 1), (2, 2), (2, 3)]
+>>> grid.evolve()
+>>> print(grid)
+Blinker:
+Alive cells -> [(1, 2), (2, 2), (3, 2)]
+>>> grid.evolve()
+>>> print(grid)
+Blinker:
+Alive cells -> [(2, 1), (2, 2), (2, 3)]
