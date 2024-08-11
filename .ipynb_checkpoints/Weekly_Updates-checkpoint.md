@@ -161,6 +161,7 @@ Now that I have ironed out a process, I just have to stick to it. I carve out a 
 
 
 
+
 ### Week 8: July 7 - July 14 
 What I did last week : <br>
 Exercism problems and reading associated online documentation: <br>
@@ -178,6 +179,7 @@ The problem I chose for this week includes flags that are included in a list as 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
 My initial idea was to just get the code working and passing tests and then to work on optimization by breaking the flag checking into helper functions to reduce the amount of repeated code segments. Next week, I will focus on that in order to make my code more readable.<br>
+
 
 
 
@@ -199,6 +201,7 @@ In previous weeks, sticking to a study schedule was helpful in minimizing stress
 
 
 
+
 ### Week 10: July 21 - July 28
 What I did last week : <br>
 Last week, I worked on optimizing my code for the grep exercism problem. This was more of a challenge than I anticipated and I attempted this problem many times in attempts to optimize my work and reduce the amount of copied code. It was fun to explore various ways to implement and sort out my approach for this problem. However, every single one of my attempts, I ended up having to copy code portions based on various combinations of input flags. I reviewed some of the code submitted by other users who completed the problem and came to the conclusion that getting rid of duplicated portions entirely was not possible. <br>
@@ -211,6 +214,7 @@ This week, despite being hopeful that my crazy schedule would mellow out, I had 
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
 Following the courses with set times this week made managing my time easier. In previous weeks, I had gotten super focused and had lots of fun exploring exercism and working on problems that I was devoting way more than the 4 hours required for this course. This week, it was easier to plan out my days and slowly chip away at the courses since I knew there was a finite amount of time that I had to dedicate to the courses. These courses were the perfect way to make progress in my goal to improve my skills with python despite having a busy week. <br>
+
 
 
 
@@ -231,6 +235,7 @@ Internship coming to a close, lots of projects and an exam. <br>
 
 Reflection on the process you used last week, how can you make the process work better? : <br>
 Take a little time each day to chip away at the activity <br>
+
 
 
 ### Week 12: August 4 - August 11 
